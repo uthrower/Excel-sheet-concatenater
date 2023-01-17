@@ -4,4 +4,4 @@ Concatenating excel files under the same folder, with the freedom of:
 - **cherry-picking** the files/sheets required and ignore the irrelevant ones - based on user input!
 - indexing your data to differentiate them by source file
 
-Files under \to_combine folder are used for demonstration in jupyter notebook.
+Files under **\to_combine** folder are used as demonstration in jupyter notebook.
